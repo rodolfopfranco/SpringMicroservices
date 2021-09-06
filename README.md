@@ -1,4 +1,4 @@
-<h2>Projeto para aplicação de mircrosserviços do Spring</h2>
+<h2>Projeto para aplicação de microsserviços do Spring</h2>
 
 Projeto criado durante o Bootcamp Santander via Digital Innovation One
 
